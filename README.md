@@ -3,8 +3,9 @@
 Um projeto de análise de dados para demonstrar funcionalidades do PowerBI, baseado no curso "Business Intelligence e Data Science" da Data Science Academy..
 O arquivo Dados_Comerciais.xlsx contém uma lista de transações comerciais realizadas por uma empresa, descrevendo a venda de produtos separados por categoria, segmento comercial, loja, localização, vendedor, comissão, data da transação, valores e custos, etc.
 
-- Este dashboard inclui um índice dinâmico, cuja funcionalidade é exibidade abaixo:
-![Page 1 Overview](media/page1.gif)
+- Este dashboard inclui um índice dinâmico e se divide em 4 seções.
+  
+![Page 1 Overview](media/page1.png)
 ---
 
 ## Narrativa Inteligente
